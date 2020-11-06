@@ -4,13 +4,10 @@ body {
   margin: 0;
 }
 
-header {
+header, img {
   text-align: center;
 }
 
-img {
-  image-orientation: center;
-}
 
 a {
   padding: 10px;
