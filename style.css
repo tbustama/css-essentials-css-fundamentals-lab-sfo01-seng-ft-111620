@@ -4,10 +4,16 @@ body {
   margin: 0;
 }
 
-header, img, figcaption {
+header, figcaption {
   text-align: center;
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
 
 nav a {
   padding-left: 10px;
