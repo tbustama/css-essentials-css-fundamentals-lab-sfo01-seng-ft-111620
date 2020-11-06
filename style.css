@@ -29,4 +29,5 @@ figcaption {
 }
 #details div {
   float: left;
+  width: 0.25;
 }
