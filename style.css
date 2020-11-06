@@ -5,6 +5,9 @@ body {
   text-align: center;
 }
 
+img {
+  image-orientation: center;
+}
 a {
   padding: 10px;
   background: grey;
