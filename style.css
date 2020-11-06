@@ -29,9 +29,10 @@ figcaption {
   margin-left: auto;
 }
 
-#details {
-  display: block;
-}
+/*#details {*/
+/*  display: block;*/
+/*}*/
+
 #details div {
   float: left;
   width: 25%;
