@@ -4,7 +4,7 @@ body {
   margin: 0;
 }
 
-header, figcaption {
+header, figcaption, #featured-property {
   text-align: center;
 }
 
@@ -25,9 +25,6 @@ figcaption {
   font-size: 1em;
 }
 
-#featured-property {
-  text-align: center;
-}
 #featured-property p {
   width: 800px;
   margin-right: auto;
