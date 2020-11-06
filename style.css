@@ -8,6 +8,7 @@ body {
 img {
   image-orientation: center;
 }
+
 a {
   padding: 10px;
   background: grey;
@@ -22,7 +23,9 @@ figcaption {
  
 }
 
-#details div {
+#details {
   display: block;
+}
+#details div {
   float: left;
 }
