@@ -9,3 +9,6 @@ a {
   padding: 10px;
   background: grey;
 }
+figcaption {
+  font-size: 8;
+}
