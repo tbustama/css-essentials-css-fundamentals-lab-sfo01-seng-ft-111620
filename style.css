@@ -4,7 +4,7 @@ body {
   margin: 0;
 }
 
-header, img {
+header, img, figcaption {
   text-align: center;
 }
 
