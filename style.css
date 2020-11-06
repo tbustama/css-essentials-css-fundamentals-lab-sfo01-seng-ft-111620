@@ -11,7 +11,7 @@ header, figcaption, #featured-property {
 img {
   margin-left: auto;
   margin-right: auto;
-  
+  display: block;
 }
 
 nav a {
