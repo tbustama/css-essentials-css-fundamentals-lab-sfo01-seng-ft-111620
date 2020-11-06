@@ -7,7 +7,9 @@ body {
 header, img, figcaption {
   text-align: center;
 }
-
+img {
+  text-align: center;
+}
 
 a {
   padding-left: 10px;
